@@ -8138,6 +8138,13 @@ pkg-up@2.0.0:
   dependencies:
     find-up "^2.1.0"
 
+plotly@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/plotly/-/plotly-1.0.6.tgz#b2672c3df88333625bdf684982d0e3f6521d7aaa"
+  integrity sha1-smcsPfiDM2Jb32hJgtDj9lIdeqo=
+  dependencies:
+    mkdirp "~0.5.0"
+
 pn@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
@@ -9177,6 +9184,11 @@ react-is@^16.8.1, react-is@^16.8.4:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
+
+react-plotly@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-plotly/-/react-plotly-1.0.0.tgz#addff804d47abe4e2abc49ad96f8a038cfe7f498"
+  integrity sha1-rd/4BNR6vk4qvEmtlvigOM/n9Jg=
 
 react-scripts@3.0.1:
   version "3.0.1"
